@@ -6,6 +6,7 @@ Upcoming
 **New features**
 
     - Extends functionality of :class:`~acoular.aiaa.TimeSamplesAIAABenchmark` to handle transposed data
+    - adds multichannel stationary loudness according to ISO 532-1 and stationary sharpness according to DIN 45692
 
 **Documentation**
 

@@ -69,6 +69,13 @@ from .grids import (
 )
 from .microphones import MicGeom
 from .process import Average, Cache, SampleSplitter
+from .psychoacoustics import (
+    LoudnessStationary,
+    SharpnessStationary,
+    loudness_stationary,
+    resample_to_48k,
+    sharpness_stationary,
+)
 from .sdinput import SoundDeviceSamplesGenerator
 from .signals import (
     FiltWNoiseGenerator,

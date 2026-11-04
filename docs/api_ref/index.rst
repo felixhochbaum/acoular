@@ -23,6 +23,7 @@ The following modules are part of Acoular:
     grids
     microphones
     process
+    psychoacoustics
     sdinput
     signals
     sources
